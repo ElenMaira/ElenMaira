@@ -8,5 +8,9 @@ Olá, tudo jóia? Me chamo Elen Maira, sou programador front End, atualmente est
 - <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 
 [![Elen Stats](https://github-readme-stats.vercel.app/api?username=ElenMaira)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenMaira)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
